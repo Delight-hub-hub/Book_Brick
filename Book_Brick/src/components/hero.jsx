@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import brick from '../assets/facilities.jpg'
+import facilities from '../assets/facilities.jpg'
 
 const Hero = () => {
     return (
