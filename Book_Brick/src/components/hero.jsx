@@ -42,7 +42,7 @@ const Hero = () => {
                 {/* Optional: a visual on the right side for large screens (place /hero-person.jpg in public) */}
                 <div className="hidden lg:block ml-auto">
                     <img
-                        src={brick}
+                        src={facilities}
                         alt="Person holding booking receipt"
                         className="w-[320px] h-80 rounded-xl object-cover shadow-lg border-4 border-white/30"
                     />
